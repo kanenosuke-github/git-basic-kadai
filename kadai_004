@@ -5,3 +5,5 @@ git add hello_world.txt
 git commit -m "Hello,world!を追記"
 git add hello_world.txt
 git commit -m "日本語訳を追記"
+git log
+commit 88d0a3bdd614877d3866f39cfc2bd8701f74b3d2 (HEAD -> main) 日本語訳を追記
