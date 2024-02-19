@@ -3,3 +3,5 @@ Initialized empty Git repository in C:/Users/金田
 駿之介/OneDrive/デスクトップ/git_challenge2/.git/
 git add hello_world.txt
 git commit -m "Hello,world!を追記"
+git add hello_world.txt
+git commit -m "日本語訳を追記"
