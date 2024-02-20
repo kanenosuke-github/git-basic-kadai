@@ -2,12 +2,13 @@ $ git init
 Initialized empty Git repository in C:/Users/金田
 駿之介/OneDrive/デスクトップ/git_challenge2/.git/
 git add hello_world.txt
-git commit -m "Hello,world!を追記"
-bash: !を追記: event not found
+git commit -m"Hello,world！を追記"
+[main f652dc9] Hello,world！を追記
 git add hello_world.txt
 git commit -m "日本語訳を追記"
 [main (root-commit) 88d0a3b] 日本語訳を追記
  1 file changed, 2 insertions(+)
  create mode 100644 hello_world.txt
 git log
+commit f652dc934226475538c5df44b8b1ef58d0e55956 (HEAD -> main) Hello,world！を追記
 commit 88d0a3bdd614877d3866f39cfc2bd8701f74b3d2 (HEAD -> main) 日本語訳を追記
